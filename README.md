@@ -1,1 +1,1 @@
-# Projet Fullstack Data Analyst
+# Projet Fullstack Data Analyst (Donatienne, Laurent, David)
